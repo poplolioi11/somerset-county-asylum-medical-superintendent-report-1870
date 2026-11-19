@@ -1,7 +1,7 @@
 {
   "source_title": "Somerset County Lunatic Asylum, Medical Superintendent’s Report for 1870",
   "title_zh": "薩默塞特郡精神病院醫務院長報告（1870 年度）",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "language": "en",
   "catalogue": "https://wellcomecollection.org/works/sd9ujgd8",
   "manifest": "https://iiif.wellcomecollection.org/presentation/v2/b30304003",
@@ -340,6 +340,10 @@
             {
               "type": "table_layout",
               "text": "The admissions and discharge tables use lower quotation-style ditto marks. Blank cells represent source blanks. Decorative horizontal total rules are not text. The discharge category heads span three columns each."
+            },
+            {
+              "type": "source_punctuation",
+              "text": "The text on this page uses high decimal points in 55·7 and 10·9 and a low point in 51.4."
             }
           ]
         }
@@ -476,7 +480,7 @@
           "notes": [
             {
               "type": "editorial_omission",
-              "text": "One brief explicit suicide-method phrase is omitted. The death and inquest remain in the transcription."
+              "text": "A two-word gap in the second sentence of the opening paragraph is recorded. The sentence-ending full stop, death and inquest are retained."
             }
           ]
         }
