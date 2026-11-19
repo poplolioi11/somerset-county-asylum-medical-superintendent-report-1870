@@ -23,3 +23,12 @@ Version 0.2.0. This dataset has no measured error rate or expert proofreading.
 ## Rights and citation
 
 The nineteenth-century printed text is in the public domain in the United States. New editorial material and encoding are licensed under CC BY 4.0 wherever copyright applies. Credit the historical source and the transcription by Chu, Chen-Yu (https://orcid.org/0009-0003-9738-6914). For a reading correction, cite the scan number and the relevant text in a GitHub issue.
+
+## 公開版本與引用 · Public editions
+
+- [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24381775)
+- [Zenodo 作品與歷次版本](https://doi.org/10.5281/zenodo.24381699)
+- [GitHub v0.2.0](https://github.com/poplolioi11/somerset-county-asylum-medical-superintendent-report-1870/releases/tag/v0.2.0)
+
+
+封存檔可用下載 ZIP 內的 `SHA256SUMS` 核對。
