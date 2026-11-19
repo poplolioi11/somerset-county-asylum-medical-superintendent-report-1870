@@ -1,0 +1,29 @@
+{
+  "cff-version": "1.2.0",
+  "message": "Please cite the dataset version and the original publication.",
+  "type": "dataset",
+  "title": "薩默塞特郡精神病院醫務院長報告（1870 年度） / Somerset County Lunatic Asylum, Medical Superintendent’s Report for 1870 — Transcription Dataset",
+  "version": "0.1.0",
+  "date-released": "2026-11-20",
+  "authors": [
+    {
+      "given-names": "Chen-Yu",
+      "family-names": "Chu",
+      "orcid": "https://orcid.org/0009-0003-9738-6914"
+    }
+  ],
+  "repository-code": "https://github.com/poplolioi11/somerset-county-asylum-medical-superintendent-report-1870",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "精神醫學史",
+    "病房照護",
+    "薩默塞特",
+    "Somerset County Lunatic Asylum",
+    "Madden-Medlicott",
+    "history of psychiatry",
+    "asylum admissions",
+    "ward care",
+    "hospital recreation",
+    "historical transcription"
+  ]
+}
